@@ -1,0 +1,1 @@
+1) Whenever we do some changes in the server or file we have to stop the server and then again start the server and it is a very hectic process so to fix it we use `nodemon` -> It is an utility which automatically restarts the server whenever it detects any changes in the file! 
